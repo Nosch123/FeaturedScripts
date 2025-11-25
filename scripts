@@ -18,7 +18,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/kigredns/testUIDK/ref
 Steal a brainrot
 Lumora
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3e7e5539bf07cd98f855ebb0c29c8081.lua"))()
-
 6 Script
-Crypto Miner
-By El0n Musk
+Ink Game
+RINGTA
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wefwef34/inkgames.github.io/refs/heads/main/ringta.lua"))()
